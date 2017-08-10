@@ -586,7 +586,7 @@ PlayerSettings:
   cloudServicesEnabled:
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: f6c99c96-29ff-48fd-b226-a0bf03a4ca6d
   projectName: Delete This Unity Project
   organizationId: destrucity
